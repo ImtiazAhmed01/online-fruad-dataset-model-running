@@ -255,6 +255,13 @@ This project is licensed under the MIT License.
 
 ---
 
+# <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/885aa927-a8bb-498a-92e8-7cf20b2448da" />
+ Completion
+
+This project has been completed on 5/10/2025.
+
+---
+
 # 🧩 Tags
 
 `Machine Learning` `Fraud Detection` `Cybersecurity` `FinTech` `Python` `AI` `Data Science` `Classification` `Scikit-Learn` `Kaggle`
