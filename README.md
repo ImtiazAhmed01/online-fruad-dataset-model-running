@@ -255,7 +255,7 @@ This project is licensed under the MIT License.
 
 ---
 
-# <i class="hgi hgi-stroke hgi-rounded hgi-setting-done-02"></i> Completion
+# <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/921d5c4e-a2bd-488f-9c3e-6403366e408c" /> Completion
 
 This project has been completed on 5/10/2025.
 
